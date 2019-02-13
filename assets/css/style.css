@@ -4,7 +4,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image:url("../images/qbkls/qbkls.png");
+    background-image:url("");
     
 }
 
@@ -30,7 +30,7 @@ h1{
 #randyNum{
     width: 100%;
     height: 35px;
-    background-color: lightcoral;
+    background-color: turquoise;
     float: left;
     padding: .5%;
     text-align: center;
@@ -40,14 +40,14 @@ h1{
 
 #wins{
     width: 100%;
-    background-color: aquamarine;
+    background-color: lightblue;
     float: left;
     margin: 0;
     text-align: center;
 }
 #losses{
     width: 100%;
-    background-color: aquamarine;
+    background-color: rebeccapurple;
     float: left;
     margin: 0;
     text-align: center;
